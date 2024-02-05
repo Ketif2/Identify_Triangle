@@ -7,13 +7,13 @@ Este programa en Java te permite identificar el tipo de triángulo (equilátero,
 
 ## BackLog
 
-## Tarea Pendiente:
+### Tarea Pendiente:
 La tarea comienza en el estado "Pendiente", lo que significa que aún no ha sido iniciada.
 
-## Tarea en Curso:
+### Tarea en Curso:
 Luego, la tarea pasa al estado "En curso", indicando que el trabajo ha comenzado.
 
-## Tarea Completada:
+### Tarea Completada:
 Finalmente, la tarea se mueve al estado "Completado", lo que significa que todas las acciones requeridas han sido finalizadas y la tarea está terminada.
 
 ![1](https://github.com/Ketif2/Identify_Triangle/assets/119013531/75a18959-87f4-450a-82db-8eb4b190bde3)
